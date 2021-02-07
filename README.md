@@ -1,4 +1,4 @@
 # MachineLearning
-Machine Learning - Courses and Projects
+Machine Learning - Courses and Projects - Coursera - Stanford
 
-A journey to understand machine learning
+Here I put my work/code while taking Machine Learning course on Coursera
